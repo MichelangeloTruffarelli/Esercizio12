@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BubbleSort", "BubbleSort\BubbleSort.csproj", "{B633D56B-24FC-4880-AEA8-DF0B0A454ECB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppBS", "ConsoleAppBS\ConsoleAppBS.csproj", "{07EB20F2-DEB9-489E-8C92-5FFE4AC3F826}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B633D56B-24FC-4880-AEA8-DF0B0A454ECB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B633D56B-24FC-4880-AEA8-DF0B0A454ECB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B633D56B-24FC-4880-AEA8-DF0B0A454ECB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B633D56B-24FC-4880-AEA8-DF0B0A454ECB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07EB20F2-DEB9-489E-8C92-5FFE4AC3F826}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07EB20F2-DEB9-489E-8C92-5FFE4AC3F826}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07EB20F2-DEB9-489E-8C92-5FFE4AC3F826}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07EB20F2-DEB9-489E-8C92-5FFE4AC3F826}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0574EB30-D497-420F-96EB-2404684CD0C5}
+	EndGlobalSection
+EndGlobal
